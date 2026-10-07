@@ -1,2 +1,2 @@
-streamlit
-pandas
+# Dependências do Projeto GoodWe Smart Energy
+# O projeto utiliza exclusivamente bibliotecas nativas do Python 3 (built-in).
